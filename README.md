@@ -17,7 +17,7 @@ Soy un Analista de Datos con formación en **Bibliotecología y Educación**. Mi
 ## ❓ ¿Qué hago?  
 
 - 🔭 Actualmente, estoy trabajando en proyectos como: [Dream_Team_Knicks](https://github.com/AgustinRolon/Dream_team_knicks_analysis)  
-- 🌱 También estoy ampliando mis conocimientos en **AWS** para fortalecer mis competencias en entornos de bases de datos en la nube, y mejorando mi nivel de inglés (B1).  
+- 🌱 También estoy ampliando mis conocimientos en **AWS RDS** para fortalecer mis competencias en entornos de bases de datos en la nube, y mejorando mi nivel de inglés (B2).  
 - 🎓 Experiencia en herramientas como **Python, Pandas, NumPy, Seaborn, SQL Server, Power BI, Tableau y Google Sheets** para análisis de datos y visualización.  
 - 🧠 Apasionado por optimizar flujos de trabajo y modelos de datos, combinando habilidades técnicas y pedagógicas para ofrecer soluciones efectivas en entornos multidisciplinarios.
 - 💬 Me interesa colaborar en proyectos de análisis de datos que generen impacto real y mejoren la toma de decisiones basada en datos.
