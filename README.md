@@ -18,7 +18,7 @@ Soy un Analista de Datos con formación en **Bibliotecología y Educación**. Mi
 
 - 🔭 Actualmente, estoy trabajando en proyectos como: [Dream_Team_Knicks](https://github.com/AgustinRolon/Dream_team_knicks_analysis)  
 - 🌱 También estoy ampliando mis conocimientos en **AWS** para fortalecer mis competencias en entornos de bases de datos en la nube, y mejorando mi nivel de inglés (B1).  
-- 🎓 Experiencia en herramientas como **Python, Pandas, NumPy, Seaborn, SQL Server, Power BI, y Google Sheets** para análisis de datos y visualización.  
+- 🎓 Experiencia en herramientas como **Python, Pandas, NumPy, Seaborn, SQL Server, Power BI, Tableau y Google Sheets** para análisis de datos y visualización.  
 - 🧠 Apasionado por optimizar flujos de trabajo y modelos de datos, combinando habilidades técnicas y pedagógicas para ofrecer soluciones efectivas en entornos multidisciplinarios.
 - 💬 Me interesa colaborar en proyectos de análisis de datos que generen impacto real y mejoren la toma de decisiones basada en datos.
 - 😜 Hobbies: 🎮 Gamer, 📖 Lector, y 🏓 Aficionado al ping pong.
@@ -34,6 +34,9 @@ Mi objetivo es integrarme en un equipo dinámico donde pueda aplicar mis habilid
   </a>  
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
     <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" width="100" height="100"/> 
+  </a>
+ <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
+    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Power BI" width="100" height="100"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> 
