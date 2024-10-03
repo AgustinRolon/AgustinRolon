@@ -34,8 +34,8 @@ Mi objetivo es integrarme en un equipo dinámico donde pueda aplicar mis habilid
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
     <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" width="100" height="100"/> 
   </a>
- <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Power BI" width="100" height="100"/> 
+ <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> 
+    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="100" height="100"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> 
